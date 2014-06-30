@@ -1,0 +1,25 @@
+{
+    "name": "wesrc/secretarycrypt",
+    "description": "SecretaryCrypt - crypt module for Secretary/SecretaryClient",
+    "type": "application",
+    "license": "MIT",
+    "homepage": "https://github.com/wesrc/secretarycrypt",
+    "authors": [
+        {
+            "name": "Michael Scholl",
+            "email": "michael@wesrc.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "SecretaryCrypt": "src"
+        },
+        "classmap": []
+    },
+    "require": {
+        "php": ">=5.3.23"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~3.7.0"
+    }
+}
