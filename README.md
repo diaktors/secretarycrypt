@@ -1,4 +1,4 @@
-SecretaryEncryption
+SecretaryCrypt
 ===================
 
-Encryption module for secretary and secretary client
+Crypt module of secretary and secretary client
